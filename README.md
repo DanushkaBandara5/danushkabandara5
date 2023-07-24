@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)
+
 <h1 align="center">Hi 👋, I'm Danushka Kasun Bandara</h1>
 <h3 align="center">Full Stack Developer Trainee</h3>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471pazbm8wjxdwt7lsebd2u8l1phcr1v7jzqu7rf58&ep=v1_gifs_search&rid=giphy.gif&ct=g">
