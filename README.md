@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Danushka Kasun Bandara</h1>
-<h3 align="center">Full Stack Developer Trainee</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471pazbm8wjxdwt7lsebd2u8l1phcr1v7jzqu7rf58&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danushkabandara5&label=Profile%20views&color=0e75b6&style=flat" alt="danushkabandara5" /> </p>
